@@ -1,6 +1,6 @@
 ### Hi there 👋. I am Sonal.j
 
-A passionate frontend developer
+
 
 - 🔭 I’m currently working on Back end web development and have a keen intrest towards Machine Learning.
 - 🌱 I’m currently learning Node JS, Mongo DB, Express JS.
