@@ -2,11 +2,11 @@
 
 
 
-- 🔭 Aspiring Data Analyst with a strong foundation in Computer Science. 
-- 🌱 I’m currently learning Python (NumPy, Pandas), SQL, R, MySQL, Data Warehouse (ETL Concepts), Excel and Power BI (DAX).
-- 👯 I’m looking to collaborate on projects in the domain of Data Analytics and AI/M
+- 🔭 Aspiring Supply Chain Management student with a background in Computer Science and experience supporting logistics and service operations. 
+- 🌱 I’m currently pursuing my MSc in Global Supply Chain Management at the University of Leeds.
+- 👯 I’m looking forward to combining my technical skills with my knowledge in supply chain to apply data-driven forecasting and automation tools to improve logistics efficiency and inventory management
 - 💬 Ask me about anything 
-- 📫 How to reach me: sonaljothylingam@gmail.com
+- 📫 How to reach me: sonaljothylingam25122001@gmail.com
 - ⚡ A Fun fact about me is that I love to dance and I'm trained in 4 different dance forms them being : Bharatanatyam, Kathak, Free Style and Rabindra nritya. 
 
 <h3 align="left">Connect with me:</h3>
